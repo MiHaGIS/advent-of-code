@@ -1,0 +1,10 @@
+debug/
+target/
+Cargo.lock
+node_modules/
+logs
+*.log
+npm-debug.log*
+__pycache__/
+*.py[cod]
+*$py.class
